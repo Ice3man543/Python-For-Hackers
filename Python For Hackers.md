@@ -1,12 +1,12 @@
-#Python For Hackers | Part. 1
-####Written By : @Ice3man (EthanTom)
-####Email : [EthanTom543@gmail.com](mailto:EthanTom543@gmail.com) 
-####Github : [EthanTom.github.io](ethantom.github.io) 
-######File : Python For Hackers.md | Last Edited : October 6, 2017 4:25 PM
+# Python For Hackers | Part. 1
+#### Written By : @Ice3man (EthanTom)
+#### Email : [ThomasEthan@protonmail.com](mailto:ThomasEthan@protonmail.com) 
+#### Github : [https://github.com/Ice3man543/](https://github.com/Ice3man543/) 
+###### File : Python For Hackers.md | Last Edited : October 6, 2017 4:25 PM
 
 ---
 
-###Table of Contents 
+### Table of Contents 
 
 - Introduction to the World of Python
 - Beginning with the Interactive Console.
@@ -24,7 +24,7 @@
 - - -
 
 
-###0x00 | Introduction To The World of Python
+### 0x00 | Introduction To The World of Python
 
 Python is a modern language which was designed in the early 1990's by ==Guido van Rossum== at Stichting Mathematisch Center in the Netherlands as the successor of a language called ABC. This language has gained wide acceptance in the scientific and hacker communities as a language which is easy to program, easier to read and still easier to grasp. But do not let it's simplicity fool you, It is one of the most powerful programming lanugage. In fact, it's the most-used language by the Tech Giant Google who has used it for a variety of programs. From the Google Youtube Platform to the DeepMind Machine Learning Program, everyone at Google uses Python for tasks which are just mind-blowing.
 
