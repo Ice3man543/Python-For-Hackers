@@ -1,6 +1,5 @@
 # Python For Hackers | Part. 1
-#### Written By : @Ice3man (EthanTom)
-#### Email : [ThomasEthan@protonmail.com](mailto:ThomasEthan@protonmail.com) 
+#### Written By : @Ice3man (NizamulRana)
 #### Github : [https://github.com/Ice3man543/](https://github.com/Ice3man543/) 
 ###### File : Python For Hackers.md | Last Edited : October 6, 2017 4:25 PM
 
